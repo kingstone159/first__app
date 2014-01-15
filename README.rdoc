@@ -1,0 +1,1 @@
+Your first fails app. From Learn Ruby on rails in 20min
